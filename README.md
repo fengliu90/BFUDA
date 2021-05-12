@@ -1,4 +1,4 @@
-# Budget-friendly Unsupervised Domain Adaptation
+# Clarinet: Budget-friendly Unsupervised Domain Adaptation
 Code release for "Clarinet: A One-step Approach Towards Budget-friendly Unsupervised Domain Adaptation" (IJCAI 2020)
 
 ## Environment
